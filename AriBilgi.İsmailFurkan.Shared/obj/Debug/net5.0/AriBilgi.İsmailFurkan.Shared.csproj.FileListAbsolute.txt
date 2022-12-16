@@ -1,0 +1,12 @@
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\bin\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.deps.json
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\bin\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.dll
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\bin\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.pdb
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.csproj.AssemblyReference.cache
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.AssemblyInfoInputs.cache
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.AssemblyInfo.cs
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.dll
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\obj\Debug\net5.0\refint\AriBilgi.İsmailFurkan.Shared.dll
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.pdb
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Shared\obj\Debug\net5.0\ref\AriBilgi.İsmailFurkan.Shared.dll

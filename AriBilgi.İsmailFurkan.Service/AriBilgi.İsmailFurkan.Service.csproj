@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AriBilgi.İsmailFurkan.Data\AriBilgi.İsmailFurkan.Data.csproj" />
+    <ProjectReference Include="..\AriBilgi.İsmailFurkan.Entities\AriBilgi.İsmailFurkan.Entities.csproj" />
+    <ProjectReference Include="..\AriBilgi.İsmailFurkan.Shared\AriBilgi.İsmailFurkan.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

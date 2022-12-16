@@ -1,0 +1,15 @@
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\bin\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.deps.json
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\bin\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.dll
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\bin\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.pdb
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\bin\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.dll
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\bin\Debug\net5.0\AriBilgi.İsmailFurkan.Shared.pdb
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.csproj.AssemblyReference.cache
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.AssemblyInfoInputs.cache
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.AssemblyInfo.cs
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.csproj.CopyComplete
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.dll
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\refint\AriBilgi.İsmailFurkan.Entities.dll
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\AriBilgi.İsmailFurkan.Entities.pdb
+C:\Users\Nani1\source\repos\AriBilgi.İsmailFurkan\AriBilgi.İsmailFurkan.Entities\obj\Debug\net5.0\ref\AriBilgi.İsmailFurkan.Entities.dll
